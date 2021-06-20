@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621240592 source:c:\users\hp\documents\codeblock\phasetwo\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<windows.h>
+
