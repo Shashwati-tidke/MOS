@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620355607 source:c:\users\hp\documents\codeblock\phaseone\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+
