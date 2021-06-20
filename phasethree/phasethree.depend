@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622170468 source:c:\users\hp\documents\codeblock\phasethree\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<queue>
+	<sstream>
+	<windows.h>
+

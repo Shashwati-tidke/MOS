@@ -1,0 +1,55 @@
+Hello World                             
+Time limit exceeded                     
+IR:H    Job_ID=1 IC=3 TI=2 PI=0 SI=0    
+TTC=4 TTL=3 LLC=1 TLL=1                 
+                                        
+                                        
+Out of Data Error                       
+IR:GD20 Job_ID=2 IC=1 TI=0 PI=0 SI=0    
+TTC=2 TTL=11 LLC=0 TLL=3                
+                                        
+                                        
+Operand error                           
+IR:BTi4 Job_ID=3 IC=10 TI=0 PI=0 SI=0   
+ TTC=16 TTL=24 LLC=0 TLL=1              
+                                        
+                                        
+*   *   *   *                           
+*                                       
+*   *   *                               
+*                                       
+Line limit exceeded                     
+IR:PD70 Job_ID=4 IC=17 TI=0 PI=0 SI=0   
+ TTC=28 TTL=29 LLC=5 TLL=4              
+                                        
+                                        
+Operation code error                    
+IR:PR20 Job_ID=5 IC=2 TI=0 PI=0 SI=0    
+TTC=2 TTL=25 LLC=0 TLL=1                
+                                        
+                                        
+Invalid page fault                      
+IR:PD40 Job_ID=6 IC=4 TI=0 PI=0 SI=0    
+TTC=7 TTL=10 LLC=0 TLL=3                
+                                        
+                                        
+Got it                                  
+                                        
+                                        
+*                                       
+*   *                                   
+*   *   *                               
+*   *   *   *                           
+                                        
+                                        
+ZIG         ZAG                         
+                                        
+                                        
+                    *                   
+            *               *           
+    *               *               *   
+                                        
+                                        
+NOT SAME                                
+                                        
+                                        
